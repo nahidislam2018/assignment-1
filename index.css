@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+
+.main-head{
+    background: url(images/banner/banner3.png);
+    height: 900px;
+    background-repeat: no-repeat;
+    width: 1920px;
+    background-size: cover;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    
+}
+
+.head{
+    padding: 120px;
+}
+
+.head-line{
+   font-size: 65px;
+   font-weight: 700;
+   color: white;
+}
+
+.head-bio{
+    color: white;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.contact-button{
+    height: 65px;
+    width: 160px;
+    background-color: white;
+    color: rgb(45, 123, 212);
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 20px;
+}
